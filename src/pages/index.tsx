@@ -1,5 +1,5 @@
-import Image from "next/image";
 import { Inter } from "next/font/google";
+import Image from "next/image";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -20,7 +20,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            By{" "}
+            By AAAAACCC
             <Image
               src="/vercel.svg"
               alt="Vercel Logo"

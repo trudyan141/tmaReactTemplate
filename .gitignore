@@ -1,1 +1,4 @@
 node_modules
+.next
+tma.internal-key.pem
+tma.internal.pem
