@@ -1,0 +1,10 @@
+.testCss{
+  :global{
+    .test{
+      color: red;
+    }
+    .user-info{
+      word-break: break-all;
+    }
+  }
+}   
